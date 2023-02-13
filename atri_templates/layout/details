@@ -1,0 +1,232 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "d049e4d9-6f5e-41fd-8924-0a537a4c3ba1",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "175px",
+          "height": "62.4px",
+          "color": "#8d8d8d",
+          "fontSize": "18px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "5c463176-14c8-4f5d-8800-f545db777573",
+    "childId": "d049e4d9-6f5e-41fd-8924-0a537a4c3ba1"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "ae0b5a1f-8c07-44df-aab9-b50f090ba812",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "5c463176-14c8-4f5d-8800-f545db777573",
+    "childId": "ae0b5a1f-8c07-44df-aab9-b50f090ba812"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "d13a5c01-31ef-4afb-9fba-d5a59b28e4de",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "19px",
+          "height": "62.4px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "fc66d997-fca4-4ef0-bfbb-9b9a842163e9",
+    "childId": "d13a5c01-31ef-4afb-9fba-d5a59b28e4de"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "fd5ff7ca-9129-4141-b695-e422a91fb360",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/map.jpg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "fc66d997-fca4-4ef0-bfbb-9b9a842163e9",
+    "childId": "fd5ff7ca-9129-4141-b695-e422a91fb360"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "b3d2f9ae-a0f6-4df6-b70f-b7cedb3ca735",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex",
+          "columnGap": "20px",
+          "width": "350px",
+          "height": "62.4px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "8a0af0f4-87ce-4ae1-b832-1edaa100336f",
+    "childId": "b3d2f9ae-a0f6-4df6-b70f-b7cedb3ca735"
+  },
+  {
+    "id": "1ddeb00f-e7ef-45dc-bbfe-9e643c943596",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "5c463176-14c8-4f5d-8800-f545db777573",
+    "childId": "1ddeb00f-e7ef-45dc-bbfe-9e643c943596"
+  },
+  {
+    "id": "cba0806a-a938-4021-be0d-e07d9886a4c9",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "fc66d997-fca4-4ef0-bfbb-9b9a842163e9",
+    "childId": "cba0806a-a938-4021-be0d-e07d9886a4c9"
+  },
+  {
+    "id": "0829b277-a59a-405c-b946-61dd1e4cd788",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "8a0af0f4-87ce-4ae1-b832-1edaa100336f",
+    "childId": "0829b277-a59a-405c-b946-61dd1e4cd788"
+  },
+  {
+    "id": "5c463176-14c8-4f5d-8800-f545db777573",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "8a0af0f4-87ce-4ae1-b832-1edaa100336f",
+        "index": 2
+      },
+      "alias": "TextBox26"
+    }
+  },
+  {
+    "id": "fc66d997-fca4-4ef0-bfbb-9b9a842163e9",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "8a0af0f4-87ce-4ae1-b832-1edaa100336f",
+        "index": 1
+      },
+      "alias": "Image14"
+    }
+  },
+  {
+    "id": "8a0af0f4-87ce-4ae1-b832-1edaa100336f",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "div_21"
+    }
+  }
+]

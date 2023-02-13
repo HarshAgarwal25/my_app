@@ -1,0 +1,91 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "ae45488b-2d68-48e4-ae6f-9394c1fbd1dd",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "145px",
+          "height": "145px",
+          "borderTopLeftRadius": "25px",
+          "borderBottomLeftRadius": "25px",
+          "borderTopRightRadius": "25px",
+          "borderBottomRightRadius": "25px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "1cb12562-4d3d-4b90-8f8b-ac88888167af",
+    "childId": "ae45488b-2d68-48e4-ae6f-9394c1fbd1dd"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "c9c3bd43-6e43-402b-a9d7-6de6f9d160c3",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/milkshake.jpeg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "1cb12562-4d3d-4b90-8f8b-ac88888167af",
+    "childId": "c9c3bd43-6e43-402b-a9d7-6de6f9d160c3"
+  },
+  {
+    "id": "36218b90-1d18-410c-b490-0f110091d126",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "1cb12562-4d3d-4b90-8f8b-ac88888167af",
+    "childId": "36218b90-1d18-410c-b490-0f110091d126"
+  },
+  {
+    "id": "1cb12562-4d3d-4b90-8f8b-ac88888167af",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Image52"
+    }
+  }
+]
